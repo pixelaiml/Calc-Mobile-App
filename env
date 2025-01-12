@@ -1,0 +1,3 @@
+npx react-native init CalculatorApp
+cd CalculatorApp
+npm install react-native-paper
